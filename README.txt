@@ -1,5 +1,5 @@
 Name: Cameron Moreira
-Student Number: 300119186
+Student Number: 
 Class: CSI2120[A]
 
 Assumptions and references:
